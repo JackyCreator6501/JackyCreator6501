@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JackyCreator6501
-- 👀 I’m interested in Coding ,Swimming, Playing, backend.
+- 👀 I’m interested in Coding ,Swimming, Playing, Learning how to make a backend.
 - 🌱 I’m currently learning JavaScript, Lua
 - 📫 How to reach me, discord: jackycreator
 
