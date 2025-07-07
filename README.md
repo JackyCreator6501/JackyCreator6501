@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackyCreator6501
 - 👀 I’m interested in Coding ,Swimming, Playing.
-- 🌱 I’m currently learning JavaScript, TypeScript, React
+- 🌱 I Currently Know: C#, C++, GO
 - 📫 How to reach me, discord: jackycreator
 
 <!---
