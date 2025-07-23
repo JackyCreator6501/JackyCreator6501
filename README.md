@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @JackyCreator6501
-- 👀 I’m interested in Coding ,Swimming, Playing.
+- 👋 Hi, I’m jackycreator
 - 🌱 I Currently Know: C#, C++, GO
 - 📫 How to reach me, discord: jackycreator
 
